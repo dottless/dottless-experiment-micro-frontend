@@ -1197,7 +1197,8 @@
 
 "@dottless/plugin@github:dottless/plugin":
   version "1.0.0"
-  resolved "https://codeload.github.com/dottless/plugin/tar.gz/c8238e864a8ce09bd034e37b52cd298cc316d508"
+  uid da282f291b92dca71f56f1e59166d63f3040bfb6
+  resolved "https://codeload.github.com/dottless/plugin/tar.gz/da282f291b92dca71f56f1e59166d63f3040bfb6"
 
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.4.0"
