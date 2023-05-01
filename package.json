@@ -6,7 +6,7 @@
     "@dottless/plugin": "github:dottless/plugin",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^14.0.0",
-    "@testing-library/user-event": "^13.2.1",
+    "@testing-library/user-event": "^14.4.3",
     "@types/jest": "^29.5.1",
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
